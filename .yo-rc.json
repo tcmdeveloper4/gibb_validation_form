@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.20.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.24.0"
+    },
+    "version": "1.20.0",
+    "libraryName": "validation-form",
+    "libraryId": "6855bb47-7ee1-483b-a2cb-6c237e01885e",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "ValidationForm",
+    "solutionShortDescription": "ValidationForm description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

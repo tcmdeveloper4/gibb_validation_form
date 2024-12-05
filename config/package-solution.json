@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "validation-form-client-side-solution",
+    "id": "6855bb47-7ee1-483b-a2cb-6c237e01885e",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.20.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "ValidationForm description"
+      },
+      "longDescription": {
+        "default": "ValidationForm description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "validation-form Feature",
+        "description": "The feature that activates elements of the validation-form solution.",
+        "id": "81984d36-92aa-4eb9-8049-46f6b6c3948e",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/validation-form.sppkg"
+  }
+}
